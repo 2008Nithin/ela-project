@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
+  <React.StrictMode style={{innerWidth: '100%', innerHeight: '100%'}}>
+    <App style={{innerWidth: '100%', innerHeight: '100%'}} />
   </React.StrictMode>,
   document.getElementById('root')
 );

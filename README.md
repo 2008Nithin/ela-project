@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Planning
+
+1. State the title and author
+2. Answer the essential question
+3. State the theme
+4. Choose two elements to explain
+5. Use specific details from the text
+6. Provide page number for details from the text
+7. Explain how the text evidence answers the essential question
+8. Organized thoughts with logical progression
+9. Includes a home page with clickable access to at least two additional pages
+10. Information is legible and neat, spread out evenly on the page, and text features are used purposefully to guide the reader through the information.

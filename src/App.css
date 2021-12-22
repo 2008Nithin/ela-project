@@ -1,0 +1,86 @@
+.navbar {
+  display: flex;
+  height: 65px;
+  width: 100%;
+  border-bottom: white solid 2px;
+  gap: 5px;
+  align-items: center;
+}
+
+.navbar h1 {
+  font-size: 30px;
+  min-width: 283.38px;
+}
+
+.navbar p {
+  min-width: 294.7px;
+}
+
+.App {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  color: lavender;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
+
+hr {
+  float: right;
+  overflow: hidden;
+  width: 100%;
+}
+
+.below-app {
+  flex: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 650px;
+  height: 500px;
+}
+
+.home-screen {
+  border: white 2px solid;
+  width: 650px;
+  height: 500px;
+  border-radius: 20px;
+  overflow: scroll;
+}
+
+.button-change {
+  background-color: black;
+  border: white solid 1px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.button-change:hover {
+  background-color: rgb(24, 23, 23);
+}
+.button-change:active {
+  background-color: rgb(15, 15, 15);
+}
+
+.go-home {
+  min-width: 160px;
+}
+
+.home-holder {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  overflow: scroll;
+  height: 100%;
+}
