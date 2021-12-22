@@ -18,7 +18,7 @@ export default function Conflict() {
         child. Luke wonders if the third child could understand him. Nobody can
         understand Luke's conflict. Luke thinks about to taking a risk and
         running to the house where he thought there was another shadow child.
-        Luke thinks to himself "Maybe today. Do I dare?" (). He isn't sure
+        Luke thinks to himself "Maybe today. Do I dare?" (pg 52). He isn't sure
         wether he should go or not. Luke ends up running to the house where he
         thinks there is a shadow child. This forms the theme because Luke is
         taking a risk. Luke was raised to fear going outside. His whole entire
